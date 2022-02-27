@@ -19,6 +19,10 @@ function App() {
           title="pre-orders"
           disabled={true}
         />
+        <Button
+          title="pre-orders"
+          disabled={true}
+        />
       </nav>
     </>
   );
